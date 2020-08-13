@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoOnion&layout=compact)](https://github.com/AnoOnion/github-readme-stats)
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">Husni Official</a>
 - ⚡ Excited to create open-source projects
