@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion)
+![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoOnion&layout=compact)](https://github.com/AnoOnion/github-readme-stats)
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">Husni Official</a>
