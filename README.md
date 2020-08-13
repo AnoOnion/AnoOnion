@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">Husni Official</a>
+- ⚡ Excited to create open-source projects
+- 🌱 I’m currently learning Node js, Golang, and Android
+- 😄 I'm natively speak Indonesian and fluently speak english
+- 💕 I'm currently fall in love with Vue js and Laravel
+- 📫 You can reach me at anoonion@husni.or.id
