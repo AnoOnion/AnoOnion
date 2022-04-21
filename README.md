@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoOnion)](https://github.com/AnoOnion/github-readme-stats)
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">Husni Official</a>
 - ⚡ Excited to create open-source projects
@@ -23,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 I'm natively speak Indonesian and fluently speak english
 - 💕 I'm currently fall in love with Vue js and Laravel
 - 📫 You can reach me at service@husni.or.id
+
+![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoOnion)](https://github.com/AnoOnion/github-readme-stats)
