@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">Husni Official</a>
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://dev.husni.or.id">husni.or.id</a>
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning PHP, Node js, Golang, and Android
 - 😄 I'm natively speak Indonesian and fluently speak english
 - 💕 I'm currently fall in love with Vue js and Laravel
-- 📫 You can reach me at service@husni.or.id
+- 📫 You can reach me at <a href="mailto:service@husni.or.id">service@husni.or.id</a>
 
 ![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoOnion)](https://github.com/AnoOnion/github-readme-stats)
