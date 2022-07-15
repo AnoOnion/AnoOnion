@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning PHP, Node js, Golang, and Android
 - 😄 I'm natively speak Indonesian and fluently speak english
-- 💕 I'm currently fall in love with Vue js and Laravel
+- 💕 I'm currently fall in love with Vue js, React js, Express js, and Laravel
 - 📫 You can reach me at <a href="mailto:service@husni.or.id">service@husni.or.id</a>
 
 ![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
