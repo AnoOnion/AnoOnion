@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`. `.vue`, and `.php`
 - 😄 I'm natively speak Indonesian and fluently speak english
 - 💕 I'm currently fall in love with `Vue js`, `React js`, `Express js`, and `Laravel`
-- 📫 You can reach me at <a href="mailto:service@anoonion.xyz">service@anoonion.xyz</a>
+- 📫 You can reach me at <a href="mailto:private@anoonion.my.id">private@anoonion.my.id</a>
 - 😄 Pronouns: He/Him
 
 ![AnoOnion github stats](https://github-readme-stats.vercel.app/api?username=AnoOnion&show_icons=true)
