@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://anoonion.xyz">AnoOnion</a>
 - ⚡ Excited to create open-source projects
-- 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`. `.vue`, and `.php`
+- 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`. `.vue`, `.dart`, and `.php`
 - 😄 I'm natively speak Indonesian and fluently speak english
-- 💕 I'm currently fall in love with `Vue js`, `React js`, `Express js`, and `Laravel`
+- 💕 I'm currently fall in love with `Vue js`, `React js`, `Flutter`, `Express js`, and `Laravel`
 - 📫 You can reach me at <a href="mailto:private@anoonion.my.id">private@anoonion.my.id</a>
 - 😄 Pronouns: He/Him
 
